@@ -1,4 +1,4 @@
-[![MasterHead](https://media.cargocollective.com/1/10/325989/headerimg/WELCOME_BANNER_CC_SITE_V1_1-01-1.gif)
+![MasterHead](https://media.cargocollective.com/1/10/325989/headerimg/WELCOME_BANNER_CC_SITE_V1_1-01-1.gif)
 <h1 align="center">Hi 👋, I'm Tara Huff</h1>
 <h3 align="center">Learning Professional who will always be a student!</h3>
 
